@@ -6,7 +6,7 @@ Attached are the machine diagrams and the rest of the diagrams that helped in th
 
 # الوصف بالعربي: 
 بناء محرر الشفرة البسيط بلغة C# يعمل هذا المحرر على ترجمة جملة Do-While المكتوبة بلغة C++  حيث يتاكد من صيغة كتابتها وانها مكتوبة بطريقة جيدة فالهدف هو فهم آلية عمل المترجمات حيث قمنا في هذا المشروع بالتركيز بشكل خاص على بناء الجملة Do-While.
-مرفق مخططات الألة وبقية المخططات التي ساعدة على ذلك.
+مرفق مخططات الألة وبقية المخططات التي ساعدت على ذلك.
 
 # The program interface (واجهة البرنامج):
 ![codeTrue](https://github.com/HavedAlhadi/Student-Management-Project-Using-C-Sharp/assets/130609547/c46a586d-38e5-4211-a46f-e06571114171)
