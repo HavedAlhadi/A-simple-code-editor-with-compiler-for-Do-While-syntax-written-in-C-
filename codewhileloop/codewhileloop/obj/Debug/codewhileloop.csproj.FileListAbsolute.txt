@@ -1,0 +1,26 @@
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\bin\Debug\codewhileloop.exe.config
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\bin\Debug\codewhileloop.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\bin\Debug\codewhileloop.pdb
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\obj\Debug\codewhileloop.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\obj\Debug\codewhileloop.Form1.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\obj\Debug\codewhileloop.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\obj\Debug\codewhileloop.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\obj\Debug\codewhileloop.exe
+c:\users\toshiba\documents\visual studio 2012\Projects\codewhileloop\codewhileloop\obj\Debug\codewhileloop.pdb
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\bin\Debug\codewhileloop.exe.config
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\bin\Debug\codewhileloop.exe
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\bin\Debug\codewhileloop.pdb
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\obj\Debug\codewhileloop.Form1.resources
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\obj\Debug\codewhileloop.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\obj\Debug\codewhileloop.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\obj\Debug\codewhileloop.exe
+C:\Users\Abdullah\Desktop\codewhileloop\codewhileloop\obj\Debug\codewhileloop.pdb
+D:\blutoth\codewhileloop\codewhileloop\bin\Debug\codewhileloop.exe.config
+D:\blutoth\codewhileloop\codewhileloop\bin\Debug\codewhileloop.exe
+D:\blutoth\codewhileloop\codewhileloop\bin\Debug\codewhileloop.pdb
+D:\blutoth\codewhileloop\codewhileloop\obj\Debug\codewhileloop.csprojAssemblyReference.cache
+D:\blutoth\codewhileloop\codewhileloop\obj\Debug\codewhileloop.Form1.resources
+D:\blutoth\codewhileloop\codewhileloop\obj\Debug\codewhileloop.Properties.Resources.resources
+D:\blutoth\codewhileloop\codewhileloop\obj\Debug\codewhileloop.csproj.GenerateResource.cache
+D:\blutoth\codewhileloop\codewhileloop\obj\Debug\codewhileloop.exe
+D:\blutoth\codewhileloop\codewhileloop\obj\Debug\codewhileloop.pdb
